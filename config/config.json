@@ -1,0 +1,10 @@
+[
+  {
+    "env":"PRD",
+    "username":"jorgepaganelli",
+    "password":"password123",
+    "url":"https://uat.ormuco.com/login"
+
+  }
+
+]
