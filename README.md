@@ -1,2 +1,2 @@
 # Jorge_Paganelli_QA
-A simple e2e scenario for a negative test
+I've choosen the PyTest with Selenium framework because it is cheap, fast and easy to maintain.
